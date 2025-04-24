@@ -1,3 +1,5 @@
+![alt text](demo.png)
+
 ## Các dòng code trả lời test ở trong mục backend
 
 ## Các bước run project
