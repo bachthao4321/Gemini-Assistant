@@ -4,7 +4,7 @@
 
 ## Các bước run project
 
-#### 1. Chạy sever local:
+#### 1. Cài đặt môi trường và thư viện bằng conda:
 
 ```bash
 cd ./backend/
