@@ -1,0 +1,32 @@
+fastapi[all]
+uvicorn
+
+# OpenAI & agents
+openai>=1.0.0
+openai-agents
+
+# Dotenv
+python-dotenv
+
+# LangChain + PDF + URL summarization
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+
+# PDF processing
+pypdf
+unstructured
+
+# Vector store & embeddings
+faiss-cpu
+sentence-transformers
+
+# Web scraping
+requests
+beautifulsoup4
+
+# DuckDuckGo search
+duckduckgo-search
+
+python-multipart

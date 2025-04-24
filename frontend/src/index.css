@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* index.css (TailwindCSS must be imported) */
+.dot-typing {
+    display: inline-block;
+    width: 1.2em;
+    text-align: left;
+  }
+  .dot-typing::after {
+    content: '...';
+    animation: dots 1.2s steps(4, end) infinite;
+  }
+
+  @keyframes dots {
+    0% {
+      content: '.';
+    }
+    33% {
+      content: '..';
+    }
+    66% {
+      content: '...';
+    }
+    100% {
+      content: '.';
+    }
+  }
+  
