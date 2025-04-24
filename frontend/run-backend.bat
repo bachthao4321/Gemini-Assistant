@@ -1,3 +1,4 @@
+## Chạy sever local
 @echo off
 call conda activate chatbot-env
 cd ../backend
